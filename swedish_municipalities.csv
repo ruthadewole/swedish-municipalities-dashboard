@@ -1,0 +1,291 @@
+code,municipality,seat,county,population,land_area_km2,density
+1440,Ale,Nödinge,Västra Götaland,32620,316.99,102.4
+1489,Alingsås,Alingsås,Västra Götaland,42861,471.91,90.4
+0764,Alvesta,Alvesta,Kronoberg,19687,973.78,20.1
+0604,Aneby,Aneby,Jönköping,6851,517.67,13.2
+1984,Arboga,Arboga,Västmanland,13929,325.2,42.6
+2506,Arjeplog,Arjeplog,Norrbotten,2570,12556.48,0.2
+2505,Arvidsjaur,Arvidsjaur,Norrbotten,6026,5655.47,1.1
+1784,Arvika,Arvika,Värmland,25408,1650.53,15.3
+1882,Askersund,Askersund,Örebro,11382,816.83,13.9
+2084,Avesta,Avesta,Dalarna,22366,613.14,36.3
+1460,Bengtsfors,Bengtsfors,Västra Götaland,8955,882.96,10.1
+2326,Berg,Svenstavik,Jämtland,7085,5710.1,1.2
+2403,Bjurholm,Bjurholm,Västerbotten,2327,1306.69,1.8
+1260,Bjuv,Bjuv,Skåne,16052,115.34,138.6
+2582,Boden,Boden,Norrbotten,28624,4014.0,7.1
+1443,Bollebygd,Bollebygd,Västra Götaland,9784,263.31,37.0
+2183,Bollnäs,Bollnäs,Gävleborg,26018,1814.01,14.3
+0885,Borgholm,Borgholm,Kalmar,10626,67676.0,15.6
+2081,Borlänge,Borlänge,Dalarna,51354,583.88,87.5
+1490,Borås,Borås,Västra Götaland,115238,909.82,126.1
+0127,Botkyrka,Tumba,Stockholm,96750,194.01,496.1
+0560,Boxholm,Boxholm,Östergötland,5451,525.71,10.3
+1272,Bromölla,Bromölla,Skåne,12497,162.53,76.6
+2305,Bräcke,Bräcke,Jämtland,5950,3408.12,1.7
+1231,Burlöv,Arlöv,Skåne,20444,18.9,1077.1
+1278,Båstad,Båstad,Skåne,16046,207.09,73.6
+1438,Dals-Ed,Ed,Västra Götaland,4571,724.07,6.3
+0162,Danderyd,Djursholm,Stockholm,32500,26.37,1226.0
+1862,Degerfors,Degerfors,Örebro,9237,383.94,23.9
+2425,Dorotea,Dorotea,Västerbotten,2241,2764.49,0.8
+1730,Eda,Charlottenberg,Värmland,8289,820.15,10.1
+0125,Ekerö,Ekerö,Stockholm,29062,217.33,133.0
+0686,Eksjö,Eksjö,Jönköping,17660,799.29,22.0
+0862,Emmaboda,Emmaboda,Kalmar,8807,689.47,12.7
+0381,Enköping,Enköping,Uppsala,48804,1178.16,41.2
+0484,Eskilstuna,Eskilstuna,Södermanland,106789,1098.99,96.7
+1285,Eslöv,Eslöv,Skåne,35126,418.91,83.5
+1445,Essunga,Nossebro,Västra Götaland,5559,23453.0,23.6
+1982,Fagersta,Fagersta,Västmanland,12915,269.03,47.8
+1382,Falkenberg,Falkenberg,Halland,47321,1108.14,42.5
+1499,Falköping,Falköping,Västra Götaland,32794,1044.77,31.2
+2080,Falun,Falun ‡,Dalarna,59974,2039.8,29.3
+1782,Filipstad,Filipstad,Värmland,9625,1533.99,6.2
+0562,Finspång,Finspång,Östergötland,21502,1055.2,20.3
+0482,Flen,Flen,Södermanland,15095,717.83,20.9
+1763,Forshaga,Forshaga,Värmland,11439,348.21,32.7
+1439,Färgelanda,Färgelanda,Västra Götaland,6288,588.92,10.6
+2026,Gagnef,Djurås,Dalarna,10307,767.2,13.4
+0662,Gislaved,Gislaved,Jönköping,28641,1136.91,25.1
+0461,Gnesta,Gnesta,Södermanland,11343,460.86,24.5
+0617,Gnosjö,Gnosjö,Jönköping,9010,420.48,21.3
+1480,Gothenburg,Gothenburg ‡,Västra Götaland,613278,447.84,1362.2
+0980,Gotland,Visby ‡,Gotland,60852,3134.0,19.3
+1764,Grums,Grums,Värmland,8854,386.36,22.8
+1444,Grästorp,Grästorp,Västra Götaland,5602,264.43,21.1
+1447,Gullspång,Hova,Västra Götaland,4949,316.04,15.6
+2523,Gällivare,Gällivare,Norrbotten,17135,15690.83,1.1
+2180,Gävle,Gävle ‡,Gävleborg,104108,1612.99,64.2
+1471,Götene,Götene,Västra Götaland,13223,404.79,32.5
+0643,Habo,Habo,Jönköping,13511,328.4,41.0
+1783,Hagfors,Hagfors,Värmland,11324,1824.37,6.2
+1861,Hallsberg,Hallsberg,Örebro,16082,636.73,25.1
+1961,Hallstahammar,Hallstahammar,Västmanland,16600,169.58,97.4
+1380,Halmstad,Halmstad ‡,Halland,106315,1013.71,104.4
+1761,Hammarö,Skoghall,Värmland,16932,59.8,281.8
+0136,Haninge,Handen,Stockholm,101408,455.35,221.5
+2583,Haparanda,Haparanda,Norrbotten,9027,921.0,9.7
+0331,Heby,Heby,Uppsala,14275,1166.72,12.2
+2083,Hedemora,Hedemora,Dalarna,15025,835.5,17.9
+1283,Helsingborg,Helsingborg,Skåne,152776,343.59,442.8
+1466,Herrljunga,Herrljunga,Västra Götaland,9509,497.38,19.0
+1497,Hjo,Hjo,Västra Götaland,9322,296.95,31.3
+2104,Hofors,Hofors,Gävleborg,9138,409.87,22.2
+0126,Huddinge,Huddinge,Stockholm,144686,130.85,871.8
+2184,Hudiksvall,Hudiksvall,Gävleborg,37341,2486.84,14.9
+0860,Hultsfred,Hultsfred,Kalmar,13484,1121.53,12.0
+1315,Hylte,Hyltebruk,Halland,10094,946.59,10.6
+0305,Håbo,Bålsta,Uppsala,23252,143.48,161.3
+1863,Hällefors,Hällefors,Örebro,6269,984.97,6.3
+2361,Härjedalen,Sveg,Jämtland,10117,11283.67,0.9
+2280,Härnösand,Härnösand ‡,Västernorrland,24348,1058.27,22.9
+1401,Härryda,Mölnlycke,Västra Götaland,40011,266.65,149.3
+1293,Hässleholm,Hässleholm,Skåne,51915,1269.41,40.7
+1284,Höganäs,Höganäs,Skåne,28489,143.48,197.7
+0821,Högsby,Högsby,Kalmar,5134,750.6,6.8
+1266,Hörby,Hörby,Skåne,15559,419.18,37.0
+1267,Höör,Höör,Skåne,17680,290.5,60.6
+2510,Jokkmokk,Jokkmokk,Norrbotten,4695,17599.69,0.3
+0123,Järfälla,Jakobsberg,Stockholm,90180,53.78,1668.1
+0680,Jönköping,Jönköping ‡,Jönköping,148152,1479.85,99.7
+2514,Kalix,Kalix,Norrbotten,15252,1803.15,8.4
+0880,Kalmar,Kalmar ‡,Kalmar,73068,956.15,76.1
+1446,Karlsborg,Karlsborg,Västra Götaland,7047,405.88,17.3
+1082,Karlshamn,Karlshamn,Blekinge,31642,488.55,64.5
+1883,Karlskoga,Karlskoga,Örebro,30128,468.3,64.0
+1080,Karlskrona,Karlskrona ‡,Blekinge,66021,1042.52,63.1
+1780,Karlstad,Karlstad ‡,Värmland,99007,1169.31,84.3
+0483,Katrineholm,Katrineholm,Södermanland,33984,1019.49,33.2
+1715,Kil,Kil,Värmland,12024,359.73,33.3
+0513,Kinda,Kisa,Östergötland,9924,1129.34,8.7
+2584,Kiruna,Kiruna,Norrbotten,22402,19161.65,1.2
+1276,Klippan,Klippan,Skåne,17713,374.2,47.1
+0330,Knivsta,Knivsta,Uppsala,21733,282.13,76.6
+2282,Kramfors,Kramfors,Västernorrland,17390,1694.62,10.2
+1290,Kristianstad,Kristianstad,Skåne,85908,1244.45,68.8
+1781,Kristinehamn,Kristinehamn,Värmland,23590,756.63,31.0
+2309,Krokom,Krokom,Jämtland,15795,6154.26,2.6
+1881,Kumla,Kumla,Örebro,22665,203.64,110.8
+1384,Kungsbacka,Kungsbacka,Halland,86332,606.32,141.7
+1960,Kungsör,Kungsör,Västmanland,8550,202.53,42.0
+1482,Kungälv,Kungälv,Västra Götaland,50496,362.5,138.6
+1261,Kävlinge,Kävlinge,Skåne,32655,154.44,213.3
+1983,Köping,Köping,Västmanland,25610,604.23,42.2
+1381,Laholm,Laholm,Halland,26565,882.55,30.0
+1282,Landskrona,Landskrona,Skåne,47571,140.21,338.0
+1860,Laxå,Laxå,Örebro,5397,601.9,8.9
+1814,Lekeberg,Fjugesta,Örebro,8608,463.09,18.5
+2029,Leksand,Leksand,Dalarna,16167,1221.56,13.2
+1441,Lerum,Lerum,Västra Götaland,43752,258.51,168.4
+0761,Lessebo,Lessebo,Kronoberg,8115,412.55,19.6
+0186,Lidingö,Lidingö,Stockholm,48369,30.69,1566.9
+1494,Lidköping,Lidköping,Västra Götaland,40359,697.17,57.6
+1462,Lilla Edet,Lilla Edet,Västra Götaland,14398,315.59,45.4
+1885,Lindesberg,Lindesberg,Örebro,23014,1377.52,16.6
+0580,Linköping,Linköping ‡,Östergötland,168714,1427.3,117.7
+0781,Ljungby,Ljungby,Kronoberg,28132,1747.93,16.0
+2161,Ljusdal,Ljusdal,Gävleborg,18377,5256.45,3.5
+1864,Ljusnarsberg,Kopparberg,Örebro,4290,575.59,7.4
+1262,Lomma,Lomma,Skåne,24677,55.49,442.9
+2085,Ludvika,Ludvika,Dalarna,26812,1490.39,17.9
+2580,Luleå,Luleå ‡,Norrbotten,80304,2088.82,38.1
+1281,Lund,Lund,Skåne,132333,426.67,309.0
+2481,Lycksele,Lycksele,Västerbotten,12159,5518.31,2.2
+1484,Lysekil,Lysekil,Västra Götaland,13796,208.44,65.8
+1280,Malmö,Malmö ‡,Skåne,367924,156.82,2336.8
+2023,Malung-Sälen,Malung,Dalarna,10192,4084.94,2.5
+2418,Malå,Malå,Västerbotten,2902,1598.2,1.8
+1493,Mariestad,Mariestad,Västra Götaland,24421,603.74,40.3
+1463,Mark,Kinna,Västra Götaland,35134,929.28,37.6
+0767,Markaryd,Markaryd,Kronoberg,9862,517.07,19.0
+1461,Mellerud,Mellerud,Västra Götaland,9038,513.62,17.5
+0586,Mjölby,Mjölby,Östergötland,28823,546.85,52.5
+2062,Mora,Mora,Dalarna,20419,2812.45,7.2
+0583,Motala,Motala,Östergötland,43131,982.72,43.7
+0642,Mullsjö,Mullsjö,Jönköping,7546,200.09,37.5
+1430,Munkedal,Munkedal,Västra Götaland,10272,633.93,16.1
+1762,Munkfors,Munkfors,Värmland,3637,141.58,25.6
+1481,Mölndal,Mölndal,Västra Götaland,72128,145.88,491.9
+0861,Mönsterås,Mönsterås,Kalmar,12978,598.84,21.6
+0840,Mörbylånga,Mörbylånga,Kalmar,16306,666.05,24.4
+0182,Nacka,Nacka,Stockholm,113730,94.79,1193.3
+1884,Nora,Nora,Örebro,10603,618.57,17.1
+1962,Norberg,Norberg,Västmanland,5351,417.86,12.7
+2132,Nordanstig,Bergsjö,Gävleborg,9284,1370.1,6.7
+2401,Nordmaling,Nordmaling,Västerbotten,6905,1230.56,5.6
+0581,Norrköping,Norrköping,Östergötland,144904,1494.44,96.5
+0188,Norrtälje,Norrtälje,Stockholm,66832,2014.83,33.0
+2417,Norsjö,Norsjö,Västerbotten,3811,1739.16,2.2
+0881,Nybro,Nybro,Kalmar,19803,1171.68,16.8
+0140,Nykvarn,Nykvarn,Stockholm,12384,152.62,80.7
+0480,Nyköping,Nyköping ‡,Södermanland,58310,1418.06,40.9
+0192,Nynäshamn,Nynäshamn,Stockholm,30610,356.99,85.3
+0682,Nässjö,Nässjö,Jönköping,31474,930.05,33.7
+2101,Ockelbo,Ockelbo,Gävleborg,5715,1064.65,5.3
+1060,Olofström,Olofström,Blekinge,12844,389.74,32.8
+2034,Orsa,Orsa,Dalarna,6902,1730.75,4.0
+1421,Orust,Henån,Västra Götaland,15363,386.49,39.5
+1273,Osby,Osby,Skåne,12861,575.11,22.3
+0882,Oskarshamn,Oskarshamn,Kalmar,26762,1045.66,25.5
+2121,Ovanåker,Edsbyn,Gävleborg,11272,1873.28,6.0
+0481,Oxelösund,Oxelösund,Södermanland,11962,34.96,340.5
+2521,Pajala,Pajala,Norrbotten,5706,7839.52,0.7
+1402,Partille,Partille,Västra Götaland,41164,56.82,720.8
+1275,Perstorp,Perstorp,Skåne,7115,158.83,44.6
+2581,Piteå,Piteå,Norrbotten,42184,3086.15,13.6
+2303,Ragunda,Hammarstrand,Jämtland,5152,2511.1,2.0
+2409,Robertsfors,Robertsfors,Västerbotten,6595,1292.34,5.1
+1081,Ronneby,Ronneby,Blekinge,28708,825.12,34.7
+2031,Rättvik,Rättvik,Dalarna,10978,1920.81,5.7
+1981,Sala,Sala,Västmanland,22600,1166.87,19.3
+0128,Salem,Salem,Stockholm,17370,54.1,319.4
+2181,Sandviken,Sandviken,Gävleborg,38033,1165.46,32.5
+0191,Sigtuna,Märsta,Stockholm,53365,327.56,162.0
+1291,Simrishamn,Simrishamn,Skåne,18779,392.27,47.7
+1265,Sjöbo,Sjöbo,Skåne,19397,491.75,39.3
+1495,Skara,Skara,Västra Götaland,18753,428.4,43.6
+2482,Skellefteå,Skellefteå,Västerbotten,75405,6802.34,11.0
+1904,Skinnskatteberg,Skinnskatteberg,Västmanland,4234,659.39,6.4
+1264,Skurup,Skurup,Skåne,17139,193.37,88.3
+1496,Skövde,Skövde,Västra Götaland,58272,673.55,86.1
+2061,Smedjebacken,Smedjebacken,Dalarna,10758,947.97,11.3
+2283,Sollefteå,Sollefteå,Västernorrland,18138,5398.48,3.3
+0163,Sollentuna,Sollentuna,Stockholm,78033,52.6,1475.4
+0184,Solna,Solna,Stockholm,86435,19.27,4462.3
+2422,Sorsele,Sorsele,Västerbotten,2362,7366.19,0.3
+1427,Sotenäs,Kungshamn,Västra Götaland,9036,138.19,65.0
+1230,Staffanstorp,Staffanstorp,Skåne,27482,106.78,256.4
+1415,Stenungsund,Stenungsund,Västra Götaland,27854,251.83,110.0
+0180,Stockholm,Stockholm ‡,Stockholm,999239,187.22,5308.9
+1760,Storfors,Storfors,Värmland,3777,391.72,9.6
+2421,Storuman,Storuman,Västerbotten,5543,7298.24,0.8
+0486,Strängnäs,Strängnäs,Södermanland,39387,739.0,53.0
+1486,Strömstad,Strömstad,Västra Götaland,13557,467.46,28.8
+2313,Strömsund,Strömsund,Jämtland,10904,10464.12,1.0
+0183,Sundbyberg,Hallonbergen,Stockholm,57000,8.68,6529.2
+2281,Sundsvall,Sundsvall,Västernorrland,98962,3189.26,30.9
+1766,Sunne,Sunne,Värmland,13354,1287.97,10.3
+1907,Surahammar,Surahammar,Västmanland,9733,343.94,28.2
+1214,Svalöv,Svalöv,Skåne,14474,386.73,37.3
+1263,Svedala,Svedala,Skåne,23714,217.61,108.6
+1465,Svenljunga,Svenljunga,Västra Götaland,10616,919.61,11.5
+1785,Säffle,Säffle,Värmland,14756,1225.93,12.0
+2082,Säter,Säter,Dalarna,12222,570.29,19.6
+0684,Sävsjö,Sävsjö,Jönköping,11531,678.91,16.9
+2182,Söderhamn,Söderhamn,Gävleborg,24163,1059.43,22.7
+0582,Söderköping,Söderköping,Östergötland,14741,673.24,21.8
+0181,Södertälje,Södertälje,Stockholm,102772,523.93,195.2
+1083,Sölvesborg,Sölvesborg,Blekinge,17405,185.25,93.6
+1435,Tanum,Tanumshede,Västra Götaland,12677,917.16,13.7
+1472,Tibro,Tibro,Västra Götaland,11326,219.8,51.3
+1498,Tidaholm,Tidaholm,Västra Götaland,12736,517.87,24.5
+0360,Tierp,Tierp,Uppsala,21028,1539.9,13.6
+2262,Timrå,Timrå,Västernorrland,17465,783.22,22.2
+0763,Tingsryd,Tingsryd,Kronoberg,11896,1044.49,11.3
+1419,Tjörn,Skärhamn,Västra Götaland,16003,167.32,95.1
+1270,Tomelilla,Tomelilla,Skåne,13669,396.0,34.4
+1737,Torsby,Torsby,Värmland,11278,4162.29,2.7
+0834,Torsås,Torsås,Kalmar,6919,468.36,14.7
+1452,Tranemo,Tranemo,Västra Götaland,11873,741.07,16.0
+0687,Tranås,Tranås,Jönköping,18555,402.52,45.9
+1287,Trelleborg,Trelleborg,Skåne,47405,340.1,138.8
+1488,Trollhättan,Trollhättan,Västra Götaland,59265,409.6,144.0
+0488,Trosa,Trosa,Södermanland,14900,209.07,70.9
+0138,Tyresö,Tyresö,Stockholm,49645,69.18,713.7
+0160,Täby,Täby,Stockholm,78514,60.68,1287.1
+1473,Töreboda,Töreboda,Västra Götaland,9093,540.69,16.7
+1485,Uddevalla,Uddevalla,Västra Götaland,56744,637.6,88.5
+1491,Ulricehamn,Ulricehamn,Västra Götaland,24954,1045.68,23.8
+2480,Umeå,Umeå ‡,Västerbotten,135273,2317.03,58.0
+0114,Upplands Väsby,Upplands Väsby,Stockholm,50495,74.99,669.9
+0139,Upplands-Bro,Kungsängen,Stockholm,33333,235.16,141.0
+0380,Uppsala,Uppsala ‡,Uppsala,249726,2182.09,113.8
+0760,Uppvidinge,Åseda,Kronoberg,8911,1171.85,7.6
+0584,Vadstena,Vadstena,Östergötland,7484,191.55,38.9
+0665,Vaggeryd,Vaggeryd and Skillingaryd[2][a],Jönköping,14943,824.81,18.0
+0563,Valdemarsvik,Valdemarsvik,Östergötland,7526,733.55,10.2
+0115,Vallentuna,Vallentuna,Stockholm,35361,357.65,98.3
+2021,Vansbro,Vansbro,Dalarna,6741,1540.02,4.4
+1470,Vara,Vara,Västra Götaland,16011,696.8,22.9
+1383,Varberg,Varberg,Halland,69460,868.75,79.6
+0187,Vaxholm,Vaxholm,Stockholm,11636,57.61,200.9
+1233,Vellinge,Vellinge,Skåne,37833,142.55,264.2
+0685,Vetlanda,Vetlanda,Jönköping,27313,1500.16,18.1
+2462,Vilhelmina,Vilhelmina,Västerbotten,6172,8047.01,0.8
+0884,Vimmerby,Vimmerby,Kalmar,15327,1139.94,13.4
+2404,Vindeln,Vindeln,Västerbotten,5421,2630.1,2.0
+0428,Vingåker,Vingåker,Södermanland,8666,370.33,23.3
+1442,Vårgårda,Vårgårda,Västra Götaland,12472,426.57,29.1
+1487,Vänersborg,Vänersborg,Västra Götaland,40078,643.49,62.0
+2460,Vännäs,Vännäs,Västerbotten,9225,529.51,17.3
+0120,Värmdö,Gustavsberg,Stockholm,46601,443.99,104.4
+0683,Värnamo,Värnamo,Jönköping,34534,1216.0,28.3
+0883,Västervik,Västervik,Kalmar,36269,1873.61,19.3
+1980,Västerås,Västerås ‡,Västmanland,161240,957.85,167.5
+0780,Växjö,Växjö ‡,Kronoberg,98940,1664.95,59.2
+0512,Ydre,Österbymo,Östergötland,3619,675.32,5.3
+1286,Ystad,Ystad,Skåne,32188,350.05,91.7
+1492,Åmål,Åmål,Västra Götaland,11679,480.29,24.2
+2260,Ånge,Ånge,Västernorrland,9000,3050.19,2.9
+2321,Åre,Järpen,Jämtland,12770,7194.92,1.8
+1765,Årjäng,Årjäng,Värmland,9734,1409.45,6.9
+2463,Åsele,Åsele,Västerbotten,2683,4223.4,0.6
+1277,Åstorp,Åstorp,Skåne,16491,92.33,177.9
+0561,Åtvidaberg,Åtvidaberg,Östergötland,11490,686.32,16.7
+0765,Älmhult,Älmhult,Kronoberg,17579,890.37,19.7
+2039,Älvdalen,Älvdalen,Dalarna,6831,6871.35,1.0
+0319,Älvkarleby,Skutskär,Uppsala,9573,220.18,43.2
+2560,Älvsbyn,Älvsbyn,Norrbotten,7815,1699.35,4.6
+1292,Ängelholm,Ängelholm,Skåne,45159,419.74,107.1
+1407,Öckerö,Öckerö,Västra Götaland,12863,25.75,496.8
+0509,Ödeshög,Ödeshög,Östergötland,5221,433.82,12.0
+1880,Örebro,Örebro ‡,Örebro,160687,1372.3,116.6
+1257,Örkelljunga,Örkelljunga,Skåne,10293,319.22,32.1
+2284,Örnsköldsvik,Örnsköldsvik,Västernorrland,55338,6376.55,8.6
+2380,Östersund,Östersund ‡,Jämtland,64963,2208.31,29.3
+0117,Österåker,Åkersberga,Stockholm,49943,312.24,159.1
+0382,Östhammar,Östhammar,Uppsala,22181,1475.17,15.0
+1256,Östra Göinge,Broby,Skåne,13718,431.44,31.7
+2513,Överkalix,Överkalix,Norrbotten,3183,2764.81,1.1
+2518,Övertorneå,Övertorneå,Norrbotten,3995,2358.03,1.7
