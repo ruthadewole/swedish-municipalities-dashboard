@@ -44,6 +44,7 @@ county_to_region = {
 
 
 df["region"] = df["county"].map(county_to_region)
+df.loc[df["municipality"] == "Ale", "region"] = "South"
 st.sidebar.header("Filters")
 
 region_options = [
@@ -165,6 +166,10 @@ region_summary = (
     )
 )
 
+st.dataframe(
+    region_summary[["region", "municipalities", "population"]],
+    hide_index=True)
+
 population_pie = px.pie(
     region_summary,
     names="region",
@@ -194,7 +199,4 @@ st.dataframe(
     filtered_df,
     hide_index=True
 )
-
-
-st.dataframe(df)
 
